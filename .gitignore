@@ -1,0 +1,10 @@
+*.pyc
+*.swp
+*~
+
+# Directories from virtualenv
+bin
+include
+lib
+local
+man
